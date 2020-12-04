@@ -1,3 +1,4 @@
+#Reduce
 import sys
 k = 2
 # def knn_reducer(k):
